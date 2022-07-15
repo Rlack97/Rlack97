@@ -1,4 +1,4 @@
-# Hello, I'm Rlack.
+# Hello, I'm Rlack97.
 
 **code is element of world**
 
@@ -6,7 +6,7 @@
 
 
 
-**and also, music is good partner for me.**
+**and also, music is good partner**
 
 **[kawaiifuturebass](https://www.youtube.com/watch?v=Gi38Wyv_YlU&t=1623s)**
 
