@@ -36,3 +36,4 @@ I hope that my codes can reduce parts of them.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rlack97)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rlack97&layout=compact)
