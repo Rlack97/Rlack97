@@ -35,5 +35,7 @@ I hope that my codes can reduce parts of them.
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+<div>
   <img style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=Rlack97&show_icons=true&theme=swift">
   <img style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rlack97&layout=compact&theme=swift">
+</div>
