@@ -35,4 +35,4 @@ I hope that my codes can reduce parts of them.
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=김찬)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rlack97)
