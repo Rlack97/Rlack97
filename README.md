@@ -23,7 +23,7 @@ I hope that my codes can reduce parts of them.
 ![Mui](https://img.shields.io/badge/mui-D3D3D3?style=for-the-badge&logo=MUI&logoColor=#007FFF)
 
 ![React](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=black)
+![Redux](https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
