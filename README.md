@@ -1,4 +1,4 @@
-## **Greetings**
+## **👋 Greetings**
 I'm Web Frontend Developer.
 
 ## **Tech & Tools**
