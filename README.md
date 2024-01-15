@@ -15,7 +15,9 @@ I learn how this sociey works, and many inequality.
 I hope that my codes can reduce parts of them.
 <br/><br/>
 
-## **Challenging Objects**
+## **언어 및 기술**
+![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SCSS&logoColor=white)
+
 ## **Musics**
 
 ## **Contact**
