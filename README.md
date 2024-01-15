@@ -1,6 +1,6 @@
 ## **👋 Greetings**
-I'm Web Frontend Developer.
-
+Welcome to Web Frontend Developer's sketckbook.
+<img src="https://img.shields.io/badge/amalilith97@gmail.com-fa8ee5?style=flat-square"/>
 ## **🔩 Tech & Tools**
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=black)
