@@ -1,4 +1,4 @@
-# **Welcome, I'm Rlack97.**
+# ****
 
 ## **Code is element of world**
 
@@ -20,7 +20,7 @@ I hope that my codes can reduce parts of them.
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=black)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Mui](https://img.shields.io/badge/mui-7952B3?style=for-the-badge&logo=MUI&logoColor=#007FFF)
+![Mui](https://img.shields.io/badge/mui-D3D3D3?style=for-the-badge&logo=MUI&logoColor=#007FFF)
 ![React](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -31,13 +31,3 @@ I hope that my codes can reduce parts of them.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white)
-
-
-
-
-## **Musics**
-
-## **Contact**
-
-please contact me to : *amalilith97@gmail.com*
-
