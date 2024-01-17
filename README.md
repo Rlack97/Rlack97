@@ -1,10 +1,12 @@
 ## **👋 Greetings**
-Welcome to Web Frontend Developer's sketckbook.
-
-<img src="https://img.shields.io/badge/amalilith97@gmail.com-ffc0cb?style=flat-square"/>
-<a href="https://gentle-tenor-9e0.notion.site/Front-End-Dev-48b63f8bdbbd46e7a13e5059edf63e46?pvs=4"> 
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
-</a>
+Welcome to Web Frontend Developer's sketckbook.<br/>
+I believe my codes will change this world positively.
+<div display="flex">
+  <img style="height: 25px" src="https://img.shields.io/badge/amalilith97@gmail.com-6666FF?style=flat-square"/>
+  <a href="https://gentle-tenor-9e0.notion.site/Front-End-Dev-48b63f8bdbbd46e7a13e5059edf63e46?pvs=4"> 
+    <img style="height:25px" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
+  </a>
+</div>
 
 ## **🔩 Tech & Tools**
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -25,7 +27,16 @@ Welcome to Web Frontend Developer's sketckbook.
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<div align="center">
+<div align="left">
   <img style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=Rlack97&show_icons=true&theme=swift">
     <img style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rlack97&layout=compact&theme=swift">
 </div>
+
+
+## **... And Musics🎵**
+Music is an important part of coding. <br/>
+Click image to listen my favorite songs!
+<br/>
+<a href = "https://www.youtube.com/watch?v=i1U9LM4Fip0&t=54s">
+  <img src="https://e0.pxfuel.com/wallpapers/992/188/desktop-wallpaper-bass-future-bass.jpg"/>
+</a>
