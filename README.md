@@ -2,6 +2,7 @@
 Welcome to Web Frontend Developer's sketckbook.
 
 <img src="https://img.shields.io/badge/amalilith97@gmail.com-ffc0cb?style=flat-square"/>
+[![Notion Badge](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://www.notion.so/Front-End-Dev-48b63f8bdbbd46e7a13e5059edf63e46)
 
 ## **🔩 Tech & Tools**
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
