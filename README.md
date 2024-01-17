@@ -2,9 +2,9 @@
 Welcome to Web Frontend Developer's sketckbook.
 
 <img src="https://img.shields.io/badge/amalilith97@gmail.com-ffc0cb?style=flat-square"/>
-<div>
-[![Notion Badge](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://sleepy-magnolia-f53.notion.site/aeb134d735f84354803583c88681ad32?pvs=4)
-</div>
+<a href="https://gentle-tenor-9e0.notion.site/Front-End-Dev-48b63f8bdbbd46e7a13e5059edf63e46?pvs=4"> 
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
+</a>
 
 ## **🔩 Tech & Tools**
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
