@@ -2,8 +2,7 @@
 Welcome to Web Frontend Developer's sketckbook.
 
 <img src="https://img.shields.io/badge/amalilith97@gmail.com-ffc0cb?style=flat-square"/>
-[![Notion](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white)]
-
+![Vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ## **🔩 Tech & Tools**
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
