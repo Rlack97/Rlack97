@@ -24,5 +24,5 @@ Welcome to Web Frontend Developer's sketckbook.
 
 <div align="center">
   <img style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=Rlack97&show_icons=true&theme=swift">
-  <img style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rlack97&layout=compact&theme=swift">
+    <img style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rlack97&layout=compact&theme=swift">
 </div>
