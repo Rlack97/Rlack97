@@ -37,6 +37,6 @@ I believe my codes will change this world positively.
 Music is an important part of coding. <br/>
 Click image to listen my favorite songs!
 <br/>
-<a href = "https://youtu.be/i1U9LM4Fip0?si=xLMsrPggLZzzhmes" target="_blank">
+<a href = "https://youtu.be/i1U9LM4Fip0?si=xLMsrPggLZzzhmes" target="_blank" rel="noopener noreferrer">
   <img src="https://e0.pxfuel.com/wallpapers/992/188/desktop-wallpaper-bass-future-bass.jpg"/>
 </a>
